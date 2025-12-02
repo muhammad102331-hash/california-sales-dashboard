@@ -50,4 +50,6 @@ Open ecommerce-project.xlsx in Microsoft Excel.
 Explore the dashboard and customize as needed.
 
 
+[!California Sales Dashboard]('calif_dashboard.png')
+
 
