@@ -7,7 +7,7 @@ This project contains an **Ecommerce Sales Dashboard** designed to analyze custo
 ---
 
 ## 🖼 Dashboard Preview
-!California Sales Dashboard
+!Calif_dashboard.png
 
 ---
 
