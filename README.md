@@ -6,10 +6,9 @@ This project contains an **Ecommerce Sales Dashboard** designed to analyze custo
 
 ---
 
-## 🖼 Dashboard Preview
-!Calif_dashboard.png
 
----
+
+
 
 ## ✨ Features
 - **Sales Trend Analysis**: Visualizes order trends over the last 13 weeks.
