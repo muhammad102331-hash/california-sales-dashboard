@@ -43,13 +43,12 @@ This project contains an **Ecommerce Sales Dashboard** designed to analyze custo
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-  https://github.com/muhammad102331-hash/california-sales-dashboard/blob/main/calif_dashboard.png
-
+ 
 
 Open ecommerce-project.xlsx in Microsoft Excel.
 Explore the dashboard and customize as needed.
 
 
-[!California Sales Dashboard]('calif_dashboard.png')
+[!California Sales Dashboard]('https://github.com/muhammad102331-hash/california-sales-dashboard/blob/main/calif_dashboard.png')
 
 
